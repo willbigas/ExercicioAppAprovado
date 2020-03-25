@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_nomeAluno">Student\'s name</string>
+    <string name="hint_nome_aluno">Enter student name</string>
+    <string name="text_nota1">Note 1</string>
+    <string name="hint_nota1">Enter the first note</string>
+    <string name="text_nota2">Note 2</string>
+    <string name="hint_nota2">Enter the second note</string>
+    <string name="text_calcular">Calculate</string>
+    <string name="text_limparDados">Clear Data</string>
+    <string name="text_aluno">Student:</string>
+    <string name="text_media">Average:</string>
+    <string name="text_situacao">Situation:</string>
+    <string name="required_nomeAluno">"Student name is a required field "</string>
+    <string name="required_nota1">"Note 1 is a required field "</string>
+    <string name="required_nota2">Note 2 is a required field</string>
+</resources>
